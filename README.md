@@ -1,5 +1,4 @@
 # TypedJs
-Script ketik otomatis berdasarkan array
 function $(target){
 return document.getElementById(target) || document.getElementsByClassName(target);
 }
